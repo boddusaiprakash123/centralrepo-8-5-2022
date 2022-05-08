@@ -1,0 +1,5 @@
+class Test{
+public static void mai(string[] args){
+system.out.println("welcome to DevOps")
+}
+}
